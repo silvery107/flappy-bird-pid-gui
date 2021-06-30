@@ -1,8 +1,6 @@
 # Flappy Bird Controller
 
-<center>
-  <img src=images/flappy-bird-3.jpg width="300" />
-</center>
+<img src=images/flappy-bird-3.jpg width="300" />
 
 The aim of this project is to develop an interactive controller app through MATLAB app designer to play the game autonomously. The control algorithm is implemented by bang-bang control and PID control. Besides, all controller’s parameters can be tuned in app’s interface and the trajectory of bird and tubes can be drawn in real time.
 
@@ -24,4 +22,4 @@ The aim of this project is to develop an interactive controller app through MATL
 
 <!-- ![gui](images/gui.png) -->
 
-![demo](images/demo.png)
+<img src=images/demo.png width="400" />
