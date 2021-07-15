@@ -8,7 +8,7 @@ The aim of this project is to develop an interactive controller app through MATL
 - A flappy bird controller implemented in ***MATLAB app designer***.
 - It supports ***bang-bang*** and ***PID control***
 - The heighest score is ***135 for bang-bang*** and there is ***no limit for PID***.
-- A vedio [demo](docs/demo.mp4) is inclued.
+- A vedio [demo](demo.mp4) is inclued.
 - For more detials, please check the report paper in [docs](docs).
 
 ## Quick Start
