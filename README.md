@@ -18,7 +18,7 @@ The aim of this project is to develop an interactive controller app through MATL
     `git clone git@github.com:silvery107/flappy-bird-pid-gui.git`
 
 2. Open code inside ***MATLAB***, this project is implemented under version ***2020b***.
-3. Directly run `flappybird_controller_exported.m` or install the app ***Flappy Bird Controller.mlappinstall***
+3. Directly run `flappybird_controller_exported.m` or install the app `Flappy Bird Controller.mlappinstall`
 
 <!-- ![gui](images/gui.png) -->
 
