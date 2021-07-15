@@ -8,8 +8,8 @@ The aim of this project is to develop an interactive controller app through MATL
 - A flappy bird controller implemented in ***MATLAB app designer***.
 - It supports ***bang-bang*** and ***PID control***
 - The heighest score is ***135 for bang-bang*** and there is ***no limit for PID***.
-- A vedio `demo.mp4` is inclued.
-- For more detials, please check the report paper in `docs`.
+- A vedio [demo](docs/demo.mp4) is inclued.
+- For more detials, please check the report paper in [docs](docs).
 
 ## Quick Start
 
@@ -17,8 +17,8 @@ The aim of this project is to develop an interactive controller app through MATL
 
     `git clone git@github.com:silvery107/flappy-bird-pid-gui.git`
 
-2. Open code inside `MATLAB`, this project is implemented under version `2020b`.
-3. Directly run `flappybird_controller_exported.m` or install the app `Flappy Bird Controller.mlappinstall`
+2. Open code inside ***MATLAB***, this project is implemented under version ***2020b***.
+3. Directly run `flappybird_controller_exported.m` or install the app ***Flappy Bird Controller.mlappinstall***
 
 <!-- ![gui](images/gui.png) -->
 
